@@ -1,4 +1,5 @@
 [[Same tips in English]](https://github.com/procedural/magicacsg_tips/blob/main/README_EN.md)
+* #MagicaCSG v0.0.0:
 ```
 Масштаб: Куб --- 2 -- 2   --- 893   --- 893   --- X1 --- 893
 Масштаб: Куб --- 2 -- 2   --- 2     --- 893   --- X1 --- 893
