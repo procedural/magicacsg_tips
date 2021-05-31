@@ -1,4 +1,4 @@
-[[Эти же советы на русском]](https://github.com/procedural/magicacsg_tips/blob/main/README.md)
+[[Эти же советы на русском языке]](https://github.com/procedural/magicacsg_tips/blob/main/README.md)
 
 * [[Link]](https://twitter.com/redgpus/status/1399359753487323138) #MagicaCSG v0.0.0 tips: since there is no way to select strokes of multiple layers, prefer to keep strokes of a symmetric object on one layer. This way it'll be easier to delete one half of the object, move or rotate the other half, and recreate the deleted half with a flip trick.
 
